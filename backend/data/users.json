@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e65d9381-3b97-4b80-8a7e-cea247b5da3e",
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "passwordHash": "$2a$10$KkurhzDrQCjZPBl3whpj2Ofb1r.4OIrJeb8PVGdf9mNYwPzO.XCbq",
+    "createdAt": "2026-04-03T18:44:07.352Z"
+  },
+  {
+    "id": "93f3ee52-2f10-4c7a-b927-cf56b2955c51",
+    "name": "Pavan Kumar",
+    "email": "yajjalapavankumar135@gmail.com",
+    "passwordHash": "$2a$10$BfG1yXt39FD8WMGnynN.BuUs4SG4mHlTcxZFnhMO10two28j3nRHC",
+    "createdAt": "2026-04-03T18:52:31.585Z"
+  }
+]

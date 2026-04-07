@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.joblib
+*.log
+model/artifacts/
+backend/node_modules/
+frontend/node_modules/
